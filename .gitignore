@@ -1,0 +1,9 @@
+#ignore folders
+.ipynb_checkpoints
+catboost_info
+test*
+__pycache__
+
+#ignore extension
+*.txt
+*.log
