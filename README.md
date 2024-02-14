@@ -7,6 +7,6 @@ In the case of a business, how to take [advantage](https://analyticahouse.com/bl
 
 Final results can be retrieved by POST. An **API has been built in order to able request which group a customer belongs** to based on their data in order they can receive automatically specific offers based on the group they belong. An example of a possible request and a response could be as the following:
 
-<video src='https://github.com/MarinaMoreno/Client-Segmentation-Clustering/blob/main/video-example-post-api-get-customer-group.mp4' width=180/>
+![post-example(https://github.com/MarinaMoreno/Client-Segmentation-Clustering/blob/main/example-post-API.gif)
 
-Click [here](https://nbviewer.org/github/MarinaMoreno/Client-Segmentation-Clustering/blob/main/Client Segmentation (Clustering).ipynb) to properly visualize the internal links of the Jupiter notebook.
+Click [here](https://nbviewer.org/github/MarinaMoreno/Client-Segmentation-Clustering/blob/main/Client%20Segmentation%20%28Clustering%29.ipynb) to properly visualize the internal links of the Jupiter notebook.
