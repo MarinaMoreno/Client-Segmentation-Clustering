@@ -9,4 +9,4 @@ Final results can be retrieved by POST. An **API has been built in order to able
 
 ![post-example](https://github.com/MarinaMoreno/Client-Segmentation-Clustering/blob/main/example-post-API.gif)
 
-Click [here](https://nbviewer.org/github/MarinaMoreno/Client-Segmentation-Clustering/blob/main/Client%20Segmentation%20%28Clustering%29.ipynb) to properly visualize the internal links of the Jupiter notebook.
+Click [here](https://nbviewer.org/github/MarinaMoreno/Client-Segmentation-Clustering/blob/5813c20117f30270f9411af7459707dbd1bdd1df/Client%20Segmentation%20%28Clustering%29.ipynb) to properly visualize the internal links of the Jupiter notebook.
